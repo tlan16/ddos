@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.2",
+        "fzaninotto/faker": "^1.6",
+        "nesbot/carbon": "^1.22"
+    }
+}

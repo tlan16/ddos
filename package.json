@@ -1,0 +1,23 @@
+{
+  "name": "hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "await": "^0.2.6",
+    "faker": "^4.1.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.18.1",
+    "process": "^0.11.10",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "request-promise-native": "^1.0.4",
+    "sleep": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
